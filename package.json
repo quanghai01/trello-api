@@ -1,0 +1,14 @@
+{
+  "name": "trello-api",
+  "version": "1.0.0",
+  "description": "trello api study",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "quanghai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
